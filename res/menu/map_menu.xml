@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/mapStreet"
+        android:numericShortcut="1"
+        android:title="@string/map_menu_street">
+    </item>
+    <item
+        android:id="@+id/mapMenuRefresh"
+        android:title="@string/map_menu_refresh">
+    </item>
+    <item
+        android:id="@+id/mapSat"
+        android:numericShortcut="2"
+        android:title="@string/map_menu_sat">
+    </item>
+
+</menu>

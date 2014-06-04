@@ -1,0 +1,98 @@
+<resources>
+
+    <string name="app_name">VaraždinInfo</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">Main menu</string>
+    <string name="title_activity_map">Map</string>
+    <string name="description">Description</string>
+    <string name="btnName">Check map</string>
+    <string name="prefCatTitle">User settings</string>
+    <string name="ListPrefTitle">Change language</string>
+    <string name="viewTypeTitle">View Type</string>
+    <string name="prefViewTypeTitle">View Type</string>
+    <string name="directions">Directions</string>
+    <string name="cancel">Cancel</string>
+    
+	<string-array name="main_objekti">
+    <item>Banks</item>
+    <item>ATMs</item>
+    <item>Gas stations</item>
+    <item>Medical facilities</item>
+    <item>Shops</item>
+    <item>Accomodation</item>
+    <item>Betting houses</item>
+    <item>Restaurants</item>
+    <item>Sports facilities</item>
+    <item>Transport</item>
+	</string-array>
+	
+ 	<string-array name="banke__objekti">
+    <item>Hippo</item>
+    <item>Privredna</item>
+    <item>Reiffeisen</item>
+    <item>Splitska</item>
+    <item>Zagrebačka</item>
+    </string-array>
+    
+	<string-array name="bankomati_objekti">
+    <item>Hippo ATM</item>
+    <item>Privredna ATM</item>
+    <item>Reiffeisen ATM</item>
+    <item>Splitska ATM</item>
+    <item>Zagrebačka ATM</item>
+    </string-array>
+ 
+	<string-array name="benziske_objekti">
+    <item>INA</item>
+    <item>OMV</item>
+    <item>Tifon</item>
+    <item>Euro Petrol</item>
+	</string-array>
+
+	<string-array name="bolnica_objekti">
+    <item>Hospital</item>
+    <item>Medical centre</item>
+    <item>Pharmacy</item>
+    </string-array>
+    
+	<string-array name="ducani_objekti">
+    <item>Elektronics</item>
+    <item>Food</item>
+    <item>Clothes</item>
+    </string-array>
+    
+	<string-array name="smjestaj_objekti">
+    <item>Hotels</item>
+    <item>Hostels</item>
+    </string-array>
+	
+	<string-array name="kladionica_objekti">
+    <item>Stanleybet</item>
+    <item>Prva sportska</item>
+    <item>Favorit</item>
+    <item>Casino</item>
+    </string-array>
+    
+	<string-array name="restorani_objekti">
+    <item>Fast food</item>
+    <item>Japanese</item>
+    <item>Domestic</item>
+    <item>Pizza</item>
+    </string-array>
+    
+	<string-array name="sportski_objekti">
+    <item>Gyms</item>
+    <item>Pools</item>
+    </string-array>
+    
+	<string-array name="transport_objekti">
+    <item>Bus</item>
+    <item>Train</item>
+    <item>Taxi</item>
+    </string-array>
+	<string name="map_menu_street">Street view</string>
+	<string name="map_menu_refresh">Refresh</string>
+	<string name="map_menu_sat">Satellite view</string> 
+    
+</resources>

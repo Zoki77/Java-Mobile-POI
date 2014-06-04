@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory android:title="@string/prefCatTitle">
+        <ListPreference
+            android:entries="@array/lang"
+            android:entryValues="@array/langValues"
+            android:key="pref_lang"
+            android:title="@string/ListPrefTitle" android:defaultValue="2"/>
+    </PreferenceCategory>
+    <PreferenceCategory android:title="@string/prefViewTypeTitle">
+        <ListPreference 
+            android:entryValues="@array/viewTypeValues" 
+            android:entries="@array/viewType" 
+            android:key="viewType"
+            android:title="@string/viewTypeTitle" 
+            android:defaultValue="2"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>
